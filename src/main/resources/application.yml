@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: MyBoot
+
+server:
+  port: 8081
+
+#---
+#
+#spring:
+#  profiles: dev
+#
+#
+#---
+#spring:
+#  profiles: cloud
+#  jpa:
+#    database: h2
+#
