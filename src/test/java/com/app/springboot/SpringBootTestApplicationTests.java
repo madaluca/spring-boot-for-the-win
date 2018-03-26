@@ -1,4 +1,4 @@
-package com.tests.springBootTest;
+package com.app.springboot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
